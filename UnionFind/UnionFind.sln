@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "001_EffientUnionFind", "001
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_BasicaUnionFind", "001_BasicaUnionFind\001_BasicaUnionFind.csproj", "{28777C89-1453-4678-BB09-38C7CC352A47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_ParentUnionFind", "002_ParentUnionFind\002_ParentUnionFind.csproj", "{B379EF9F-7DD9-44A3-BDC3-DDAACE15D357}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,12 +25,17 @@ Global
 		{28777C89-1453-4678-BB09-38C7CC352A47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28777C89-1453-4678-BB09-38C7CC352A47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28777C89-1453-4678-BB09-38C7CC352A47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B379EF9F-7DD9-44A3-BDC3-DDAACE15D357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B379EF9F-7DD9-44A3-BDC3-DDAACE15D357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B379EF9F-7DD9-44A3-BDC3-DDAACE15D357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B379EF9F-7DD9-44A3-BDC3-DDAACE15D357}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{28777C89-1453-4678-BB09-38C7CC352A47} = {9B1937BA-8035-466F-9E51-D812976B1E9F}
+		{B379EF9F-7DD9-44A3-BDC3-DDAACE15D357} = {9B1937BA-8035-466F-9E51-D812976B1E9F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EB05BDAD-BB4F-4A5A-9622-1A3D0A5E51FC}
