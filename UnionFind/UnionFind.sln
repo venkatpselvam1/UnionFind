@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_ParentUnionFind", "002_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_ParentUnionFindMinTreeLength", "003_ParentUnionFindMinTreeLength\003_ParentUnionFindMinTreeLength.csproj", "{31371430-58DD-457D-BA61-B3BA67A3385A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "002_Redundant_Connection", "002_Redundant_Connection", "{FF4AF491-B088-4CE8-AAE8-F2BD99E2A3C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Redundant_Connection", "001_Redundant_Connection\001_Redundant_Connection.csproj", "{DE053BEB-4FCD-4986-96F8-6F2420134109}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +39,10 @@ Global
 		{31371430-58DD-457D-BA61-B3BA67A3385A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31371430-58DD-457D-BA61-B3BA67A3385A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31371430-58DD-457D-BA61-B3BA67A3385A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE053BEB-4FCD-4986-96F8-6F2420134109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE053BEB-4FCD-4986-96F8-6F2420134109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE053BEB-4FCD-4986-96F8-6F2420134109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE053BEB-4FCD-4986-96F8-6F2420134109}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -43,6 +51,7 @@ Global
 		{28777C89-1453-4678-BB09-38C7CC352A47} = {9B1937BA-8035-466F-9E51-D812976B1E9F}
 		{B379EF9F-7DD9-44A3-BDC3-DDAACE15D357} = {9B1937BA-8035-466F-9E51-D812976B1E9F}
 		{31371430-58DD-457D-BA61-B3BA67A3385A} = {9B1937BA-8035-466F-9E51-D812976B1E9F}
+		{DE053BEB-4FCD-4986-96F8-6F2420134109} = {FF4AF491-B088-4CE8-AAE8-F2BD99E2A3C0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EB05BDAD-BB4F-4A5A-9622-1A3D0A5E51FC}
